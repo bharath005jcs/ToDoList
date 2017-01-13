@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">To Do List</string>
+    <string name="reminder_title_label">Task to be done</string>
+    <string name="reminder_date_label">Due Date:</string>
+    <string name="reminder_completed_label">Completed</string>
+    <string name="reminder_title_hint">Enter Task Here</string>
+    <string name="new_task">New Task</string>
+    <string name="task_status_text">Send Task Status</string>
+    <string name="send_reminder">%1$s!
+        The Due Date is %2$s. %3$s, and %4$s
+    </string>
+    <string name="reminder_report_complete">The task is completed</string>
+    <string name="reminder_report_incomplete">The task is not completed</string>
+    <string name="reminder_no_category">it does not belong to any category.</string>
+    <string name="reminder_category">it belongs to the category %s.</string>
+    <string name="reminder_task_status">Reminder Task Status</string>
+    <string name="send_report">Share Task via</string>
+    <string name="time_picker_title">Time:</string>
+    <string name="show_count">%1$s tasks</string>
+    <string name="delete_report">Delete</string>
+    <string name="show_subtitle">Show Count</string>
+    <string name="hide_subtitle">Hide Count</string>
+    <string name="no_data_available">There are no tasks</string>
+    <string name="new_report">New Task</string>
+    <string name="share_task">Share Task</string>
+    <string name="reminder_status">Status:</string>
+    <string name="reminder_time_label">Time:</string>
+    <string name="date_picker_title">Due Date:</string>
+    <string name="message_box_title">ToDoList</string>
+    <string name="category_label">Choose Category:</string>
+    <string name="add_category">Add</string>
+    <string name="spinner_title">Select Category</string>
+    <string name="add_category_hint">Add Category</string>
+</resources>
